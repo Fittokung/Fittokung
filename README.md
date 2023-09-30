@@ -1,4 +1,4 @@
-<h1 align="center">🙌 Hi! I'm Kittiwat Yasarawan (Fit) 🙌</h1>
+<h1 align="center">🙌 Hi! I'm Fitto (Kittiwat Yasarawan) 🙌</h1>
 <h3 align="center">A passionate student from Thailand. Studying at Computer Engineering Chiang Mai University.</h3>
 
 - 🌱 I’m currently learning **Javascript, Java, and HTML**
