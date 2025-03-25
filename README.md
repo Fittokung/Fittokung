@@ -19,7 +19,7 @@
 |[UPBEAT Game](https://github.com/Fittokung/UPBEAT-OOP-Project)|An object-oriented programming game project that creates an interactive multiplayer game.|Java|
 |[Behavioral Simulator](https://github.com/OHMSIRAPOB/ComArchProject)|A Behavioral Simulator in Computer Architecture project|Java|
 |[Drip Dopdop Coffee](https://github.com/Fittokung/Database-project)|Coffee Ordering Website Using Laravel Framework|PHP|
-|[Coffee Shop](https://github.com/AongNoppolNunpiang/coffee-shop)||Coffee Ordering Website Using JavaScript and Docker|JavaScript|
+|[Coffee Shop](https://github.com/AongNoppolNunpiang/coffee-shop)|Coffee Ordering Website Using JavaScript and Docker|JavaScript|
 |[Automatic Drip Coffee Machine](https://github.com/Fittokung/Automatic-Drip-Coffee-Machine)|Automatic Drip Coffee Machine|Arduino IDE|
 |[Indoor Navigation](https://github.com/Fittokung/indoor-navigation)|Indoor Navigation using Ultra-Wideband|Arduino IDE|
 |[Smart Curtain Opener](https://github.com/Fittokung/Smart-curtain-opener)|Mini project (improve I2C) - Smart Curtain Opener|Arduino IDE|
