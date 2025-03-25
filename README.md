@@ -4,11 +4,6 @@
 - 🌱 I’m currently learning **Javascript, Java, HTML, CSS, PHP, C++**
 - ⚡ My hobbies are playing **guitar and listening to music**
 
-# 🙌 Hi! I'm Fit (Kittiwat Yasarawan) 🙌
-A passionate student from Thailand. Studying Computer Engineering at Chiang Mai University.<br>
-- 🌱 I’m currently learning **Javascript, Java, HTML, CSS, PHP, C++**<br>
-- ⚡ My hobbies are playing **guitar and listening to music**<br>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fitto_10969/?hl=th) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kittiwat-yasarawan-48406733a) 
 
