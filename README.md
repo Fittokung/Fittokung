@@ -24,7 +24,7 @@
 |[Automatic Drip Coffee Machine](https://github.com/Fittokung/Automatic-Drip-Coffee-Machine)|Automatic Drip Coffee Machine|Arduino IDE|
 |[Indoor Navigation](https://github.com/Fittokung/indoor-navigation)|Indoor Navigation app using Ultra-Wideband|Arduino IDE|
 |[Smart Curtain Opener](https://github.com/Fittokung/Smart-curtain-opener)|Mini project (improve I2C) - Smart Curtain Opener|Arduino IDE|
-|[ChaiTung(ใช้ตังค์)](https://github.com/Fittokung/ChaiTung-financial-Tracker)|Income-Expense Tracker App (currently working on)|TypeScript|
+|[ChaiTung(ใช้ตังค์)](https://github.com/Fittokung/ChaiTung-financial-Tracker)|Income-Expense Tracker Mobile App (currently working on)|TypeScript|
 
 
 
