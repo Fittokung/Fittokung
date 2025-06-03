@@ -17,6 +17,7 @@
 ### 🔝 Top Contributed Repo
 |Repository|Description|Language|
 |--|-------------------|--|
+|[ChaiTung(ใช้ตังค์)](https://github.com/Fittokung/ChaiTung-financial-Tracker)|Income-Expense Tracker Mobile App (currently working on)|TypeScript|
 |[UPBEAT Game](https://github.com/Fittokung/UPBEAT-OOP-Project)|An object-oriented programming game project that creates an interactive multiplayer game.|Java|
 |[Behavioral Simulator](https://github.com/OHMSIRAPOB/ComArchProject)|A BehavioralSimulator & Assembler in Computer Architecture project|Java|
 |[Drip Dopdop Coffee](https://github.com/Fittokung/Database-project)|Coffee Ordering Website Using Laravel Framework|PHP|
@@ -24,7 +25,6 @@
 |[Automatic Drip Coffee Machine](https://github.com/Fittokung/Automatic-Drip-Coffee-Machine)|Automatic Drip Coffee Machine|Arduino IDE|
 |[Indoor Navigation](https://github.com/Fittokung/indoor-navigation)|Indoor Navigation app using Ultra-Wideband|Arduino IDE|
 |[Smart Curtain Opener](https://github.com/Fittokung/Smart-curtain-opener)|Mini project (improve I2C) - Smart Curtain Opener|Arduino IDE|
-|[ChaiTung(ใช้ตังค์)](https://github.com/Fittokung/ChaiTung-financial-Tracker)|Income-Expense Tracker Mobile App (currently working on)|TypeScript|
 
 
 
