@@ -1,7 +1,7 @@
 <h1 align="center">🙌 Hi! I'm Fitto (Kittiwat Yasarawan) 🙌</h1>
 <h3 align="center">A passionate student from Thailand. Studying at Computer Engineering Chiang Mai University.</h3>
 
-- 🌱 I’m currently learning **Javascript, Java, HTML, CSS, PHP, C++**
+- 🌱 I’m currently learning **Javascript, Typescript, Java, HTML, CSS, PHP, C++**
 - ⚡ My hobbies are playing **guitar and listening to music**
 
 # 💻 Tech Stack:
