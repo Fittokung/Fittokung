@@ -18,7 +18,7 @@
 |Repository|Description|Language|
 |--|-------------------|--|
 |[ChaiTung(ใช้ตังค์)](https://github.com/Fittokung/ChaiTung-financial-Tracker)|Income-Expense Tracker Mobile App|TypeScript|
-|AssetWise Automated Testing|Internship Project - AssetWise Automated Testing Using Cypress|TypeScript|
+|AssetWise Automated Testing|Internship Project - AssetWise Automated Testing Using Cypress for Nextate Technology|TypeScript|
 |[UPBEAT Game](https://github.com/Fittokung/UPBEAT-OOP-Project)|An object-oriented programming game project that creates an interactive multiplayer game|Java|
 |[Behavioral Simulator](https://github.com/OHMSIRAPOB/ComArchProject)|A BehavioralSimulator & Assembler in Computer Architecture project|Java|
 |[Drip Dopdop Coffee](https://github.com/Fittokung/Database-project)|Coffee Ordering Website Using Laravel Framework|PHP|
