@@ -1,7 +1,7 @@
 <h1 align="center">🙌 Hi! I'm Fitto (Kittiwat Yasarawan) 🙌</h1>
 <h3 align="center">A passionate student from Thailand. Studying at Computer Engineering Chiang Mai University.</h3>
 
-- 🌱 I’m currently learning **Javascript, Typescript, Java, HTML, CSS, PHP, C++**
+- 🌱 I’m currently learning **JavaScript, Typescript, SQL, Java, HTML, CSS, PHP, C++**
 - ⚡ My hobbies are playing **guitar and listening to music**
 
 # 💻 Tech Stack:
@@ -17,8 +17,9 @@
 ### 🔝 Top Contributed Repo
 |Repository|Description|Language|
 |--|-------------------|--|
-|[ChaiTung(ใช้ตังค์)](https://github.com/Fittokung/ChaiTung-financial-Tracker)|Income-Expense Tracker Mobile App (currently working on)|TypeScript|
-|[UPBEAT Game](https://github.com/Fittokung/UPBEAT-OOP-Project)|An object-oriented programming game project that creates an interactive multiplayer game.|Java|
+|[ChaiTung(ใช้ตังค์)](https://github.com/Fittokung/ChaiTung-financial-Tracker)|Income-Expense Tracker Mobile App|TypeScript|
+|AssetWise Automated Testing|Internship Project - AssetWise Automated Testing Using Cypress|TypeScript|
+|[UPBEAT Game](https://github.com/Fittokung/UPBEAT-OOP-Project)|An object-oriented programming game project that creates an interactive multiplayer game|Java|
 |[Behavioral Simulator](https://github.com/OHMSIRAPOB/ComArchProject)|A BehavioralSimulator & Assembler in Computer Architecture project|Java|
 |[Drip Dopdop Coffee](https://github.com/Fittokung/Database-project)|Coffee Ordering Website Using Laravel Framework|PHP|
 |[Coffee Shop](https://github.com/AongNoppolNunpiang/coffee-shop)|Coffee Ordering Website Using JavaScript and Docker|JavaScript|
