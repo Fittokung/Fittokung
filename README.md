@@ -15,11 +15,6 @@
 - Instagram: www.instagram.com/fitto_10969/?hl=th
 - LinkedIn: www.linkedin.com/in/kittiwat-yasarawan-48406733a
 
-## 📊 GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=Fittokung&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fittokung&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### 🔝 Top Contributed Repo
 
 | Repository                                                                                  | Description                                                                              | Language    |
