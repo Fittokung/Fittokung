@@ -38,4 +38,3 @@
 ### 🌐 Socials
 
 - **LinkedIn:** [Kittiwat Yasarawan](https://www.linkedin.com/in/kittiwat-yasarawan-48406733a)
-- **Instagram:** [@fitto_10969](https://www.instagram.com/fitto_10969/?hl=th)
